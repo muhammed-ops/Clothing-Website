@@ -1,0 +1,42 @@
+.header {
+    text-align: center;
+    font-size: 110px;
+    font-weight: bold;
+    font-family: fantasy;
+    border-style: solid ;
+    border-radius: 16px;
+    background-color: black;
+    color: antiquewhite;
+}
+
+.imgg{
+    border: 8px solid black;
+    border-radius: 121px;
+    
+}
+.hhr {
+    border: 3px solid black;
+}
+.firstprice {
+    position: relative;
+    top: -1590px;
+    font-size: 60px;
+    left: 530px;
+    font-weight: bolder;
+}
+
+.secondprice {
+    position: relative;
+    top: -1230px;
+    left: 520px;
+    font-size: 60px;
+    font-weight: bolder;
+}
+.thirdprice{
+    position: relative;
+    top: -910px;
+    left: 520px;
+    font-size: 60px;
+    font-weight: bolder;
+
+}

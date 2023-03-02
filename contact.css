@@ -1,0 +1,17 @@
+.cs {
+    font-size: 30px;
+    font-weight: bold;
+}
+button {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+}
+
+.con {
+    position: relative;
+    left: 50%;
+    bottom:350px;
+    font-family: cursive;
+    font-size: 25px;
+}
